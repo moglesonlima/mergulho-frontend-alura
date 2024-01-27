@@ -8,7 +8,7 @@
 5. Definindo propriedades de estilos CSS do projeto;
 
  **OBS**:
- - No diretório projeto se encontram todos os códigos desenvolvidos na aula;
+ - No diretório ```projeto``` se encontram todos os códigos desenvolvidos na aula;
  - A seguir estarão listados os links utilizados na aula;
 
 **Links úteis**
