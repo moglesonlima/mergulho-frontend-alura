@@ -18,3 +18,7 @@ Uma imersão realizada pela Alura tendo como objetivo proporcionar uma visão am
 
 - Em cada subdiretório se encontra organizados o conteúdo abordado nas aulas, bem como o código que foi desenvolvido na mesma;
 - Cada repositório terá um README com as anotações acerca do que foi desenvolvido;
+
+### **Projeto desenvolvido**
+
+![Home Page Desenvolvida](https://github.com/moglesonlima/mergulho-frontend-alura/blob/master/Home-page.png)
